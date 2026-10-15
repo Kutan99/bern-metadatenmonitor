@@ -1,0 +1,499 @@
+{
+  "changes": [
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "094acd5a-6a4b-4848-9c23-f535093da047",
+      "kind": "changed",
+      "title": "Grossratswahlen im Kanton Bern"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "0fed9517-d4c4-48fb-8847-27e1b1d48a0d",
+      "kind": "changed",
+      "title": "Tagblätter des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "1837dc7e-ca97-407c-9cc0-060f04886328",
+      "kind": "changed",
+      "title": "Gesamtverkehrsmodell (GVM BE)"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "2274f682-dd81-4fbc-9b69-b6ca508fd656",
+      "kind": "changed",
+      "title": "Dokumente des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "27f4c370-3140-483d-a25c-be1ecabe9536",
+      "kind": "changed",
+      "title": "Wahlen Bernjurassischer Rat"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "348fa59d-91bf-4765-856f-90d4ae8c6f73",
+      "kind": "changed",
+      "title": "RGSK-Portal, Applikation zur Bewirtschaftung der Massnahmen Berner Agglomerationsprogramme und regionalen Gesamtverkehrs- und Siedlungskonzepte"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "5642d37d-8420-48ab-a3c9-f67c84227f32",
+      "kind": "changed",
+      "title": "Verknüpfung von Dokumenten und Traktanden des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "589e8151-4b3a-43ce-899d-71f456716d51",
+      "kind": "changed",
+      "title": "Wahlresultate des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "6f193d9e-469d-4f0e-b792-9052c23cee74",
+      "kind": "changed",
+      "title": "Abstimmungen des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "7755f072-50d3-4412-bcee-4adc43c53232",
+      "kind": "changed",
+      "title": "Regierungsratswahlen im Kanton Bern"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "7a98a3f9-368d-49c0-8b19-f2007e6d0e67",
+      "kind": "changed",
+      "title": "Traktanden des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "872b12a8-5e90-4c39-9c57-b4976dba38df",
+      "kind": "changed",
+      "title": "Beteiligung von Mitgliedern an Geschäften des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "8c000f77-5845-4e3a-aaf0-44f685963e18",
+      "kind": "changed",
+      "title": "Grossratswahlen im Kanton Bern"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "8c12fde0-730c-431d-b5e0-4f2d49f5867e",
+      "kind": "changed",
+      "title": "Geschäfte des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "93a2c7af-0d7e-4307-a816-c814102ff8b7",
+      "kind": "changed",
+      "title": "Regierungsratswahlen im Kanton Bern"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        },
+        {
+          "after": [
+            {
+              "agent": {
+                "classification": {
+                  "code": "0220",
+                  "name": {
+                    "de": "Verwaltungseinheit des Bundes",
+                    "en": "Administrative unit of the Confederation",
+                    "fr": "Unité de l’administration fédérale",
+                    "it": "Unità amministrativa della Confederazione"
+                  }
+                },
+                "description": {
+                  "de": "Das Bundesamt für Verkehr gestaltet den öffentlichen Personen- und den Güterverkehr in der Schweiz – sicher, effizient, kundenfreundlich und umweltverträglich. Es beaufsichtigt und reguliert Eisenbahn, Tram, Bus, Schifffahrt, Seilbahnen, Strassentransport und unterirdischen Gütertransport. Das BAV entwickelt die Grundlagen für eine moderne Bahninfrastruktur und sorgt für eine nachhaltige Finanzierung des öffentlichen Verkehrs.",
+                  "en": "The Federal Office of Transport (FOT) is responsible for public passenger and freight transport in Switzerland, ensuring it is safe, efficient, customer-friendly and sustainable. The FOT oversees and regulates railways, trams, buses, shipping, cableways, road transport and underground freight transport. It lays the foundations for a modern rail infrastructure and ensures long-term financing for public transport.",
+                  "fr": "L’Office fédéral des transports (OFT) organise les transports publics de voyageurs et de marchandises en Suisse, de manière sûre, efficiente, conviviale et respectueuse de l’environnement. Il supervise et réglemente les chemins de fer, les trams, les bus, la navigation, les téléphériques, les transports routiers et le transport souterrain de marchandises. Il développe les bases d’une infrastructure ferroviaire moderne et veille à un financement durable des transports publics.",
+                  "it": "L’Ufficio federale dei trasporti (UFT) struttura il trasporto pubblico di viaggiatori e il traffico merci in Svizzera in modo che siano sicuri, efficienti, a misura di cliente ed ecologici. Vigila e regola ferrovie, tram, autobus, battelli e impianti a fune così come il trasporto di merci su strada e sotterraneo. L’UFT sviluppa le basi per un’infrastruttura ferroviaria moderna e s’impegna per un finanziamento sostenibile dei trasporti pubblici."
+                },
+                "homePage": "https://www.bav.admin.ch",
+                "id": "ad3fed8e-384f-451c-9509-7fefa5ee96f9",
+                "identifier": "CH_BAV",
+                "images": [],
+                "name": {
+                  "de": "Bundesamt für Verkehr (BAV)",
+                  "en": "Federal Office of Transport (FOT)",
+                  "fr": "Office fédéral des transports (OFT)",
+                  "it": "Ufficio federale dei trasporti (UFT)"
+                },
+                "prefLabel": {
+                  "de": "BAV",
+                  "en": "FOT",
+                  "fr": "OFT",
+                  "it": "UFT"
+                },
+                "spatial": [
+                  "CH"
+                ],
+                "spatialCH": [
+                  {
+                    "code": "8100",
+                    "name": {
+                      "de": "Schweiz",
+                      "en": "Switzerland",
+                      "fr": "Suisse",
+                      "it": "Svizzera",
+                      "rm": "Svizra"
+                    }
+                  }
+                ],
+                "subAgentOf": [],
+                "subAgents": [],
+                "system": {
+                  "createdAt": "2023-10-19T09:19:08.166672+00:00",
+                  "modifiedAt": "2026-08-26T09:52:36.380139+00:00"
+                },
+                "uid": "CHE264708255"
+              },
+              "hadRole": {
+                "code": "stakeholder",
+                "name": {
+                  "de": "Partnerin | Partner",
+                  "en": "stakeholder",
+                  "fr": "partenaire"
+                }
+              }
+            }
+          ],
+          "before": [
+            {
+              "agent": {
+                "classification": {
+                  "code": "0220",
+                  "name": {
+                    "de": "Verwaltungseinheit des Bundes",
+                    "en": "Administrative unit of the Confederation",
+                    "fr": "Unité de l’administration fédérale",
+                    "it": "Unità amministrativa della Confederazione"
+                  }
+                },
+                "description": {
+                  "de": "Das Bundesamt für Verkehr gestaltet den öffentlichen Personen- und den Güterverkehr in der Schweiz – sicher, effizient, kundenfreundlich und umweltverträglich. Es beaufsichtigt und reguliert Eisenbahn, Tram, Bus, Schifffahrt, Seilbahnen, Strassentransport und unterirdischen Gütertransport. Das BAV entwickelt die Grundlagen für eine moderne Bahninfrastruktur und sorgt für eine nachhaltige Finanzierung des öffentlichen Verkehrs.",
+                  "en": "The Federal Office of Transport (FOT) is responsible for public passenger and freight transport in Switzerland, ensuring it is safe, efficient, customer-friendly and sustainable. The FOT oversees and regulates railways, trams, buses, shipping, cableways, road transport and underground freight transport. It lays the foundations for a modern rail infrastructure and ensures long-term financing for public transport.",
+                  "fr": "L’Office fédéral des transports (OFT) organise les transports publics de voyageurs et de marchandises en Suisse, de manière sûre, efficiente, conviviale et respectueuse de l’environnement. Il supervise et réglemente les chemins de fer, les trams, les bus, la navigation, les téléphériques, les transports routiers et le transport souterrain de marchandises. Il développe les bases d’une infrastructure ferroviaire moderne et veille à un financement durable des transports publics.",
+                  "it": "L’Ufficio federale dei trasporti (UFT) struttura il trasporto pubblico di viaggiatori e il traffico merci in Svizzera in modo che siano sicuri, efficienti, a misura di cliente ed ecologici. Vigila e regola ferrovie, tram, autobus, battelli e impianti a fune così come il trasporto di merci su strada e sotterraneo. L’UFT sviluppa le basi per un’infrastruttura ferroviaria moderna e s’impegna per un finanziamento sostenibile dei trasporti pubblici."
+                },
+                "homePage": "https://www.bav.admin.ch",
+                "id": "ad3fed8e-384f-451c-9509-7fefa5ee96f9",
+                "identifier": "CH_BAV",
+                "images": [],
+                "name": {
+                  "de": "Bundesamt für Verkehr (BAV)",
+                  "en": "Federal Office of Transport (FOT)",
+                  "fr": "Office fédéral des transports (OFT)",
+                  "it": "Ufficio federale dei trasporti (UFT)"
+                },
+                "prefLabel": {
+                  "de": "BAV",
+                  "en": "FOT",
+                  "fr": "OFT",
+                  "it": "UFT"
+                },
+                "spatial": [
+                  "CH"
+                ],
+                "spatialCH": [
+                  {
+                    "code": "8100",
+                    "name": {
+                      "de": "Schweiz",
+                      "en": "Switzerland",
+                      "fr": "Suisse",
+                      "it": "Svizzera",
+                      "rm": "Svizra"
+                    }
+                  }
+                ],
+                "subAgents": [],
+                "system": {
+                  "createdAt": "2023-10-19T09:19:08.166672+00:00",
+                  "modifiedAt": "2026-08-26T09:52:36.380139+00:00"
+                },
+                "uid": "CHE264708255"
+              },
+              "hadRole": {
+                "code": "stakeholder",
+                "name": {
+                  "de": "Partnerin | Partner",
+                  "en": "stakeholder",
+                  "fr": "partenaire"
+                }
+              }
+            }
+          ],
+          "field": "qualifiedAttributions"
+        }
+      ],
+      "id": "96707054-2242-4665-9a3c-a7662b1a801d",
+      "kind": "changed",
+      "title": "OLIVIA, Applikation für das Bestellverfahren öffentlicher Verkehr"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "ab8c2436-cfc9-47b4-bdf4-7c5c4470b47a",
+      "kind": "changed",
+      "title": "Anträge des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "b1a3fedb-27df-460d-9c99-df30d8b1890b",
+      "kind": "changed",
+      "title": "Voten des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "b7f105d9-043b-47bb-b60c-bc47ae078cdf",
+      "kind": "changed",
+      "title": "Mitglieder des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "c19b5499-2b75-491d-a6f9-b0998439708a",
+      "kind": "changed",
+      "title": "Mitgliedschaften der Mitglieder des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "c40cdd81-1729-4ed8-b4c6-ba17d45c7400",
+      "kind": "changed",
+      "title": "Sessionen des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "cbe2f858-4f2d-4378-a6b9-923656881c94",
+      "kind": "changed",
+      "title": "Interessenbindungen der Mitglieder des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "d10a61ef-720e-481f-8cb8-1d262587aa4c",
+      "kind": "changed",
+      "title": "Sessionssitzungen des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "d38e0939-1ea8-4085-a440-6aa6b57296e7",
+      "kind": "changed",
+      "title": "Abstimmungslisten mit Einzelstimmen des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "d98d3fce-8d38-4ca2-b6f9-6e25adb66a78",
+      "kind": "changed",
+      "title": "Kantonale Volksabstimmungen"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "f4257b61-d88b-4694-b141-97ce7e2cb0f2",
+      "kind": "changed",
+      "title": "Vorberatende Ratsorgane des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "f67a912e-c3d5-4e92-8375-3d5ad5d603a8",
+      "kind": "changed",
+      "title": "KVS, Applikation zur Berechnung der Anteile der bernischen Gemeinden an den kantonalen ÖV-Kosten"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "f7811e5d-d5e0-4269-a0e1-dec4b2d74b35",
+      "kind": "changed",
+      "title": "Ratsorgane des Grossen Rates"
+    },
+    {
+      "fields": [
+        {
+          "after": [],
+          "before": null,
+          "field": "publisher.subAgentOf"
+        }
+      ],
+      "id": "ffb1c939-ced2-494e-965f-8a036d2f82c9",
+      "kind": "changed",
+      "title": "Wahlen Bernjurassischer Rat"
+    }
+  ],
+  "comparedWith": "2026-10-14",
+  "count": 29,
+  "date": "2026-10-15",
+  "initial": false,
+  "previousCount": 29,
+  "publisher": "CH_KT_BERN",
+  "summary": {
+    "changed": 29,
+    "new": 0,
+    "removed": 0
+  }
+}
