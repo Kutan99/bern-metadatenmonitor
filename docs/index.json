@@ -1,7 +1,19 @@
 {
-  "latest": "2026-10-19",
+  "latest": "2026-10-20",
   "publisher": "CH_KT_BERN",
   "reports": [
+    {
+      "comparedWith": "2026-10-19",
+      "count": 29,
+      "date": "2026-10-20",
+      "file": "2026-10-20.json",
+      "initial": false,
+      "summary": {
+        "changed": 0,
+        "new": 0,
+        "removed": 0
+      }
+    },
     {
       "comparedWith": "2026-10-18",
       "count": 29,
