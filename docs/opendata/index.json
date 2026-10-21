@@ -1,7 +1,16 @@
 {
-  "latest": "2026-10-20",
+  "latest": "2026-10-21",
   "organization": "kanton-bern-2",
   "reports": [
+    {
+      "count": 22,
+      "date": "2026-10-21",
+      "summary": {
+        "changed": 0,
+        "new": 0,
+        "removed": 0
+      }
+    },
     {
       "count": 22,
       "date": "2026-10-20",
